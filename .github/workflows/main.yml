@@ -1,4 +1,4 @@
-name: Build and Deploy Vite to S3 by Ozzy
+name: Build and Deploy Vite to S3
 
 on:
     push:
